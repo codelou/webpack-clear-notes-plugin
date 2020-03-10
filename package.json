@@ -1,0 +1,19 @@
+{
+  "name": "webpack-clear-notes-plugin",
+  "version": "1.0.0",
+  "description": "webpack plugin for clear notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codelou/webpack-clear-notes-plugin.git"
+  },
+  "author": "codelou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codelou/webpack-clear-notes-plugin/issues"
+  },
+  "homepage": "https://github.com/codelou/webpack-clear-notes-plugin#readme"
+}

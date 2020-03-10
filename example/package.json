@@ -1,0 +1,19 @@
+{
+  "name": "webpack-clear-notes-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"webpack"
+  },
+  "devDependencies": {
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.3"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "color-hash": "^1.0.3"
+  }
+}
